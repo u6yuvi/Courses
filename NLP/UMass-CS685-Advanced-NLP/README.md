@@ -14,11 +14,19 @@
 
 **Spring 2021**
 
+1. Course Content
+
+​		https://people.cs.umass.edu/~miyyer/cs685_f21/schedule.html
+
 1. Video Lectures
 
    https://www.youtube.com/watch?v=buaRM2h0Xfk&list=PLWnsVgP6CzafLhi8W4EHX2TlNNQEgIlbY
 
 **Spring 2020**
+
+1. Course Content
+
+​		https://people.cs.umass.edu/~miyyer/cs685_f20/schedule.html
 
 1. Video Lectures
 
