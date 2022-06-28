@@ -1,2 +1,2 @@
-# NLP-Courses
+# Courses
 Course Material and Notes
